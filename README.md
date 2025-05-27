@@ -1,10 +1,9 @@
 # Rafael Reis
-### Third year Computer Engineering Student @ McGill University, Montreal
+### Fifth year Computer Engineering Student @ McGill University, Montreal
 - I currently have the most experience in Python, Java, C, and C#
-- I'm currently learning C++ and Front End Development (HTML, JavaScript, CSS, React.js)
 - Some projects I am working on are a self-built Chess-playing AI, and my own video game "Robe&Hood" (https://rafaelxrs.itch.io/robeandhood)
 - How to reach me: rafael.reis@mail.mcgill.ca
-- I am from Paris and my native tongues are French and German. I am also completely fluent in English.
+- Fluent in French, German and English
 <!--
 **rafxrs/rafxrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
