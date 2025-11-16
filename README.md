@@ -2,7 +2,7 @@
 ### Fifth year Computer Engineering Student and AI @ McGill University, Montreal
 - I currently have the most experience in Python, Java, C, and C#
 - Some projects I am working on are a self-built Chess-playing AI (AlphaZero inspired, using Deep-RL), and my own video game "Robe&Hood" (https://rafaelxrs.itch.io/robeandhood)
-- How to reach me: rafael.reis@mail.mcgill.ca
+- How to reach me: rafael.reis@mcgill.ca
 - Fluent in French, German and English
 <!--
 **rafxrs/rafxrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
