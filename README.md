@@ -1,6 +1,6 @@
 # Rafael Reis
-### Fifth year Computer Engineering Student and AI @ McGill University, Montreal
-- I currently have the most experience in Python, Java, C, and C#
+### 1st year M. Eng in Applied AI @ McGill University, Montreal
+- Most comfortable in Python and C#
 - Some projects I am working on are a self-built Chess-playing AI (AlphaZero inspired, using Deep-RL), and my own video game "Robe&Hood" (https://rafaelxrs.itch.io/robeandhood)
 - How to reach me: rafael.reis@mcgill.ca
 - Fluent in French, German and English
