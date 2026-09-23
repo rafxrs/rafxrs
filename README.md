@@ -1,8 +1,9 @@
 # Rafael Reis
 ### 1st year M. Eng in Applied AI @ McGill University, Montreal
 - Most comfortable in Python and C#
-- How to reach me: rafael.reis@mcgill.ca
 - Fluent in French, German and English
+- How to reach me: rafael dot reis at mail dot mcgil dot ca
+
 <!--
 **rafxrs/rafxrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
