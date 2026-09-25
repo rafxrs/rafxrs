@@ -1,6 +1,6 @@
 # Rafael Reis
 ### 1st year M. Eng in Applied AI @ McGill University, Montreal
-- Proficient in Python and C#
+- [Portfolio](https://rafxrs.github.io/)
 - Fluent in French, German and English
 - How to reach me: rafael dot reis at mail dot mcgill dot ca
 
