@@ -1,5 +1,5 @@
 # Rafael Reis
-### 1st year M. Eng in Applied AI @ McGill University, Montreal
+### M. Eng in Applied AI @ McGill University, Montreal
 - [Portfolio](https://rafxrs.github.io/)
 - Fluent in French, German and English
 - How to reach me: rafael dot reis at mail dot mcgill dot ca
